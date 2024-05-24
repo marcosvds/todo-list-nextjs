@@ -45,4 +45,3 @@ Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o 
 - **Adicione Tarefas:** Permite adicionar novas tarefas com título e descrição.
 - **Lista de Tarefas:** Exibe uma lista de tarefas adicionadas.
 - **Excluir Tarefas:** Permite excluir tarefas da lista.
-- **Navbar Fixa:** A barra de navegação é fixa no topo da página.
