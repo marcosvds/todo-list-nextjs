@@ -1,7 +1,3 @@
-Claro, vou atualizar o README sem a estrutura do projeto.
-
----
-
 # Projeto Next.js
 
 Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
